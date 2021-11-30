@@ -1,0 +1,16 @@
+C:\Users\aji\source\repos\sort2\sort2\bin\Debug\net5.0\sort2.exe
+C:\Users\aji\source\repos\sort2\sort2\bin\Debug\net5.0\sort2.deps.json
+C:\Users\aji\source\repos\sort2\sort2\bin\Debug\net5.0\sort2.runtimeconfig.json
+C:\Users\aji\source\repos\sort2\sort2\bin\Debug\net5.0\sort2.runtimeconfig.dev.json
+C:\Users\aji\source\repos\sort2\sort2\bin\Debug\net5.0\sort2.dll
+C:\Users\aji\source\repos\sort2\sort2\bin\Debug\net5.0\ref\sort2.dll
+C:\Users\aji\source\repos\sort2\sort2\bin\Debug\net5.0\sort2.pdb
+C:\Users\aji\source\repos\sort2\sort2\obj\Debug\net5.0\sort2.csproj.AssemblyReference.cache
+C:\Users\aji\source\repos\sort2\sort2\obj\Debug\net5.0\sort2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aji\source\repos\sort2\sort2\obj\Debug\net5.0\sort2.AssemblyInfoInputs.cache
+C:\Users\aji\source\repos\sort2\sort2\obj\Debug\net5.0\sort2.AssemblyInfo.cs
+C:\Users\aji\source\repos\sort2\sort2\obj\Debug\net5.0\sort2.csproj.CoreCompileInputs.cache
+C:\Users\aji\source\repos\sort2\sort2\obj\Debug\net5.0\sort2.dll
+C:\Users\aji\source\repos\sort2\sort2\obj\Debug\net5.0\ref\sort2.dll
+C:\Users\aji\source\repos\sort2\sort2\obj\Debug\net5.0\sort2.pdb
+C:\Users\aji\source\repos\sort2\sort2\obj\Debug\net5.0\sort2.genruntimeconfig.cache

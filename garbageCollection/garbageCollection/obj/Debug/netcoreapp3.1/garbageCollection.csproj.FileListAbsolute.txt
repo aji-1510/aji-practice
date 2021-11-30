@@ -1,0 +1,14 @@
+C:\Users\aji\source\repos\garbageCollection\garbageCollection\bin\Debug\netcoreapp3.1\garbageCollection.exe
+C:\Users\aji\source\repos\garbageCollection\garbageCollection\bin\Debug\netcoreapp3.1\garbageCollection.deps.json
+C:\Users\aji\source\repos\garbageCollection\garbageCollection\bin\Debug\netcoreapp3.1\garbageCollection.runtimeconfig.json
+C:\Users\aji\source\repos\garbageCollection\garbageCollection\bin\Debug\netcoreapp3.1\garbageCollection.runtimeconfig.dev.json
+C:\Users\aji\source\repos\garbageCollection\garbageCollection\bin\Debug\netcoreapp3.1\garbageCollection.dll
+C:\Users\aji\source\repos\garbageCollection\garbageCollection\bin\Debug\netcoreapp3.1\garbageCollection.pdb
+C:\Users\aji\source\repos\garbageCollection\garbageCollection\obj\Debug\netcoreapp3.1\garbageCollection.csproj.AssemblyReference.cache
+C:\Users\aji\source\repos\garbageCollection\garbageCollection\obj\Debug\netcoreapp3.1\garbageCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aji\source\repos\garbageCollection\garbageCollection\obj\Debug\netcoreapp3.1\garbageCollection.AssemblyInfoInputs.cache
+C:\Users\aji\source\repos\garbageCollection\garbageCollection\obj\Debug\netcoreapp3.1\garbageCollection.AssemblyInfo.cs
+C:\Users\aji\source\repos\garbageCollection\garbageCollection\obj\Debug\netcoreapp3.1\garbageCollection.csproj.CoreCompileInputs.cache
+C:\Users\aji\source\repos\garbageCollection\garbageCollection\obj\Debug\netcoreapp3.1\garbageCollection.dll
+C:\Users\aji\source\repos\garbageCollection\garbageCollection\obj\Debug\netcoreapp3.1\garbageCollection.pdb
+C:\Users\aji\source\repos\garbageCollection\garbageCollection\obj\Debug\netcoreapp3.1\garbageCollection.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\aji\source\repos\sample2\sample2\bin\Debug\net5.0\sample2.exe
+C:\Users\aji\source\repos\sample2\sample2\bin\Debug\net5.0\sample2.deps.json
+C:\Users\aji\source\repos\sample2\sample2\bin\Debug\net5.0\sample2.runtimeconfig.json
+C:\Users\aji\source\repos\sample2\sample2\bin\Debug\net5.0\sample2.runtimeconfig.dev.json
+C:\Users\aji\source\repos\sample2\sample2\bin\Debug\net5.0\sample2.dll
+C:\Users\aji\source\repos\sample2\sample2\bin\Debug\net5.0\ref\sample2.dll
+C:\Users\aji\source\repos\sample2\sample2\bin\Debug\net5.0\sample2.pdb
+C:\Users\aji\source\repos\sample2\sample2\obj\Debug\net5.0\sample2.csproj.AssemblyReference.cache
+C:\Users\aji\source\repos\sample2\sample2\obj\Debug\net5.0\sample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aji\source\repos\sample2\sample2\obj\Debug\net5.0\sample2.AssemblyInfoInputs.cache
+C:\Users\aji\source\repos\sample2\sample2\obj\Debug\net5.0\sample2.AssemblyInfo.cs
+C:\Users\aji\source\repos\sample2\sample2\obj\Debug\net5.0\sample2.csproj.CoreCompileInputs.cache
+C:\Users\aji\source\repos\sample2\sample2\obj\Debug\net5.0\sample2.dll
+C:\Users\aji\source\repos\sample2\sample2\obj\Debug\net5.0\ref\sample2.dll
+C:\Users\aji\source\repos\sample2\sample2\obj\Debug\net5.0\sample2.pdb
+C:\Users\aji\source\repos\sample2\sample2\obj\Debug\net5.0\sample2.genruntimeconfig.cache

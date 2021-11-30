@@ -1,0 +1,14 @@
+C:\Users\aji\source\repos\activitys16112021(2)\activitys16112021(2)\bin\Debug\netcoreapp3.1\activitys16112021(2).exe
+C:\Users\aji\source\repos\activitys16112021(2)\activitys16112021(2)\bin\Debug\netcoreapp3.1\activitys16112021(2).deps.json
+C:\Users\aji\source\repos\activitys16112021(2)\activitys16112021(2)\bin\Debug\netcoreapp3.1\activitys16112021(2).runtimeconfig.json
+C:\Users\aji\source\repos\activitys16112021(2)\activitys16112021(2)\bin\Debug\netcoreapp3.1\activitys16112021(2).runtimeconfig.dev.json
+C:\Users\aji\source\repos\activitys16112021(2)\activitys16112021(2)\bin\Debug\netcoreapp3.1\activitys16112021(2).dll
+C:\Users\aji\source\repos\activitys16112021(2)\activitys16112021(2)\bin\Debug\netcoreapp3.1\activitys16112021(2).pdb
+C:\Users\aji\source\repos\activitys16112021(2)\activitys16112021(2)\obj\Debug\netcoreapp3.1\activitys16112021(2).csproj.AssemblyReference.cache
+C:\Users\aji\source\repos\activitys16112021(2)\activitys16112021(2)\obj\Debug\netcoreapp3.1\activitys16112021(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aji\source\repos\activitys16112021(2)\activitys16112021(2)\obj\Debug\netcoreapp3.1\activitys16112021(2).AssemblyInfoInputs.cache
+C:\Users\aji\source\repos\activitys16112021(2)\activitys16112021(2)\obj\Debug\netcoreapp3.1\activitys16112021(2).AssemblyInfo.cs
+C:\Users\aji\source\repos\activitys16112021(2)\activitys16112021(2)\obj\Debug\netcoreapp3.1\activitys16112021(2).csproj.CoreCompileInputs.cache
+C:\Users\aji\source\repos\activitys16112021(2)\activitys16112021(2)\obj\Debug\netcoreapp3.1\activitys16112021(2).dll
+C:\Users\aji\source\repos\activitys16112021(2)\activitys16112021(2)\obj\Debug\netcoreapp3.1\activitys16112021(2).pdb
+C:\Users\aji\source\repos\activitys16112021(2)\activitys16112021(2)\obj\Debug\netcoreapp3.1\activitys16112021(2).genruntimeconfig.cache

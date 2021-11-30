@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "garbageCollection", "garbageCollection\garbageCollection.csproj", "{A1D108F8-2DBE-4FB5-AA46-F3BE38ED2D7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D108F8-2DBE-4FB5-AA46-F3BE38ED2D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D108F8-2DBE-4FB5-AA46-F3BE38ED2D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D108F8-2DBE-4FB5-AA46-F3BE38ED2D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D108F8-2DBE-4FB5-AA46-F3BE38ED2D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4DBA65A-F48B-4EB5-83D7-B4BDEA1101D7}
+	EndGlobalSection
+EndGlobal

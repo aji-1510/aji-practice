@@ -1,0 +1,16 @@
+C:\Users\aji\source\repos\ss\ss\bin\Debug\net5.0\ss.exe
+C:\Users\aji\source\repos\ss\ss\bin\Debug\net5.0\ss.deps.json
+C:\Users\aji\source\repos\ss\ss\bin\Debug\net5.0\ss.runtimeconfig.json
+C:\Users\aji\source\repos\ss\ss\bin\Debug\net5.0\ss.runtimeconfig.dev.json
+C:\Users\aji\source\repos\ss\ss\bin\Debug\net5.0\ss.dll
+C:\Users\aji\source\repos\ss\ss\bin\Debug\net5.0\ref\ss.dll
+C:\Users\aji\source\repos\ss\ss\bin\Debug\net5.0\ss.pdb
+C:\Users\aji\source\repos\ss\ss\obj\Debug\net5.0\ss.csproj.AssemblyReference.cache
+C:\Users\aji\source\repos\ss\ss\obj\Debug\net5.0\ss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aji\source\repos\ss\ss\obj\Debug\net5.0\ss.AssemblyInfoInputs.cache
+C:\Users\aji\source\repos\ss\ss\obj\Debug\net5.0\ss.AssemblyInfo.cs
+C:\Users\aji\source\repos\ss\ss\obj\Debug\net5.0\ss.csproj.CoreCompileInputs.cache
+C:\Users\aji\source\repos\ss\ss\obj\Debug\net5.0\ss.dll
+C:\Users\aji\source\repos\ss\ss\obj\Debug\net5.0\ref\ss.dll
+C:\Users\aji\source\repos\ss\ss\obj\Debug\net5.0\ss.pdb
+C:\Users\aji\source\repos\ss\ss\obj\Debug\net5.0\ss.genruntimeconfig.cache

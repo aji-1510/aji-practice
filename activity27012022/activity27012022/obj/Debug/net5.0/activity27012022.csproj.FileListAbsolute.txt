@@ -1,0 +1,16 @@
+C:\Users\aji\source\repos\activity27012022\activity27012022\obj\Debug\net5.0\activity27012022.csproj.AssemblyReference.cache
+C:\Users\aji\source\repos\activity27012022\activity27012022\obj\Debug\net5.0\activity27012022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aji\source\repos\activity27012022\activity27012022\obj\Debug\net5.0\activity27012022.AssemblyInfoInputs.cache
+C:\Users\aji\source\repos\activity27012022\activity27012022\obj\Debug\net5.0\activity27012022.AssemblyInfo.cs
+C:\Users\aji\source\repos\activity27012022\activity27012022\obj\Debug\net5.0\activity27012022.csproj.CoreCompileInputs.cache
+C:\Users\aji\source\repos\activity27012022\activity27012022\bin\Debug\net5.0\activity27012022.exe
+C:\Users\aji\source\repos\activity27012022\activity27012022\bin\Debug\net5.0\activity27012022.deps.json
+C:\Users\aji\source\repos\activity27012022\activity27012022\bin\Debug\net5.0\activity27012022.runtimeconfig.json
+C:\Users\aji\source\repos\activity27012022\activity27012022\bin\Debug\net5.0\activity27012022.runtimeconfig.dev.json
+C:\Users\aji\source\repos\activity27012022\activity27012022\bin\Debug\net5.0\activity27012022.dll
+C:\Users\aji\source\repos\activity27012022\activity27012022\bin\Debug\net5.0\ref\activity27012022.dll
+C:\Users\aji\source\repos\activity27012022\activity27012022\bin\Debug\net5.0\activity27012022.pdb
+C:\Users\aji\source\repos\activity27012022\activity27012022\obj\Debug\net5.0\activity27012022.dll
+C:\Users\aji\source\repos\activity27012022\activity27012022\obj\Debug\net5.0\ref\activity27012022.dll
+C:\Users\aji\source\repos\activity27012022\activity27012022\obj\Debug\net5.0\activity27012022.pdb
+C:\Users\aji\source\repos\activity27012022\activity27012022\obj\Debug\net5.0\activity27012022.genruntimeconfig.cache

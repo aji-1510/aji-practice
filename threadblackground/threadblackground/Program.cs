@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;  
 using System.Threading;  
   
-namespace ForegroundBackgroundThread  /**/
+namespace threadblackground  /**/
 {  
     class Program  
     {  
@@ -14,6 +14,7 @@ namespace ForegroundBackgroundThread  /**/
             for (int i = 1; i < 10; i++)  
             {  
                 Console.WriteLine("Executing Print1.... ");  
+              
                 Thread.Sleep(1000);  
             }  
         }  

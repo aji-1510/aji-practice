@@ -1,0 +1,16 @@
+C:\Users\aji\source\repos\sleeppro\sleeppro\bin\Debug\net5.0\sleeppro.exe
+C:\Users\aji\source\repos\sleeppro\sleeppro\bin\Debug\net5.0\sleeppro.deps.json
+C:\Users\aji\source\repos\sleeppro\sleeppro\bin\Debug\net5.0\sleeppro.runtimeconfig.json
+C:\Users\aji\source\repos\sleeppro\sleeppro\bin\Debug\net5.0\sleeppro.runtimeconfig.dev.json
+C:\Users\aji\source\repos\sleeppro\sleeppro\bin\Debug\net5.0\sleeppro.dll
+C:\Users\aji\source\repos\sleeppro\sleeppro\bin\Debug\net5.0\ref\sleeppro.dll
+C:\Users\aji\source\repos\sleeppro\sleeppro\bin\Debug\net5.0\sleeppro.pdb
+C:\Users\aji\source\repos\sleeppro\sleeppro\obj\Debug\net5.0\sleeppro.csproj.AssemblyReference.cache
+C:\Users\aji\source\repos\sleeppro\sleeppro\obj\Debug\net5.0\sleeppro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aji\source\repos\sleeppro\sleeppro\obj\Debug\net5.0\sleeppro.AssemblyInfoInputs.cache
+C:\Users\aji\source\repos\sleeppro\sleeppro\obj\Debug\net5.0\sleeppro.AssemblyInfo.cs
+C:\Users\aji\source\repos\sleeppro\sleeppro\obj\Debug\net5.0\sleeppro.csproj.CoreCompileInputs.cache
+C:\Users\aji\source\repos\sleeppro\sleeppro\obj\Debug\net5.0\sleeppro.dll
+C:\Users\aji\source\repos\sleeppro\sleeppro\obj\Debug\net5.0\ref\sleeppro.dll
+C:\Users\aji\source\repos\sleeppro\sleeppro\obj\Debug\net5.0\sleeppro.pdb
+C:\Users\aji\source\repos\sleeppro\sleeppro\obj\Debug\net5.0\sleeppro.genruntimeconfig.cache

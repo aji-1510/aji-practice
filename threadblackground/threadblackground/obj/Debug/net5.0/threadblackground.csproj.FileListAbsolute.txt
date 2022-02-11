@@ -1,0 +1,16 @@
+C:\Users\aji\source\repos\threadblackground\threadblackground\bin\Debug\net5.0\threadblackground.exe
+C:\Users\aji\source\repos\threadblackground\threadblackground\bin\Debug\net5.0\threadblackground.deps.json
+C:\Users\aji\source\repos\threadblackground\threadblackground\bin\Debug\net5.0\threadblackground.runtimeconfig.json
+C:\Users\aji\source\repos\threadblackground\threadblackground\bin\Debug\net5.0\threadblackground.runtimeconfig.dev.json
+C:\Users\aji\source\repos\threadblackground\threadblackground\bin\Debug\net5.0\threadblackground.dll
+C:\Users\aji\source\repos\threadblackground\threadblackground\bin\Debug\net5.0\ref\threadblackground.dll
+C:\Users\aji\source\repos\threadblackground\threadblackground\bin\Debug\net5.0\threadblackground.pdb
+C:\Users\aji\source\repos\threadblackground\threadblackground\obj\Debug\net5.0\threadblackground.csproj.AssemblyReference.cache
+C:\Users\aji\source\repos\threadblackground\threadblackground\obj\Debug\net5.0\threadblackground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aji\source\repos\threadblackground\threadblackground\obj\Debug\net5.0\threadblackground.AssemblyInfoInputs.cache
+C:\Users\aji\source\repos\threadblackground\threadblackground\obj\Debug\net5.0\threadblackground.AssemblyInfo.cs
+C:\Users\aji\source\repos\threadblackground\threadblackground\obj\Debug\net5.0\threadblackground.csproj.CoreCompileInputs.cache
+C:\Users\aji\source\repos\threadblackground\threadblackground\obj\Debug\net5.0\threadblackground.dll
+C:\Users\aji\source\repos\threadblackground\threadblackground\obj\Debug\net5.0\ref\threadblackground.dll
+C:\Users\aji\source\repos\threadblackground\threadblackground\obj\Debug\net5.0\threadblackground.pdb
+C:\Users\aji\source\repos\threadblackground\threadblackground\obj\Debug\net5.0\threadblackground.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\aji\source\repos\threadpro\threadpro\bin\Debug\net5.0\threadpro.exe
+C:\Users\aji\source\repos\threadpro\threadpro\bin\Debug\net5.0\threadpro.deps.json
+C:\Users\aji\source\repos\threadpro\threadpro\bin\Debug\net5.0\threadpro.runtimeconfig.json
+C:\Users\aji\source\repos\threadpro\threadpro\bin\Debug\net5.0\threadpro.runtimeconfig.dev.json
+C:\Users\aji\source\repos\threadpro\threadpro\bin\Debug\net5.0\threadpro.dll
+C:\Users\aji\source\repos\threadpro\threadpro\bin\Debug\net5.0\ref\threadpro.dll
+C:\Users\aji\source\repos\threadpro\threadpro\bin\Debug\net5.0\threadpro.pdb
+C:\Users\aji\source\repos\threadpro\threadpro\obj\Debug\net5.0\threadpro.csproj.AssemblyReference.cache
+C:\Users\aji\source\repos\threadpro\threadpro\obj\Debug\net5.0\threadpro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aji\source\repos\threadpro\threadpro\obj\Debug\net5.0\threadpro.AssemblyInfoInputs.cache
+C:\Users\aji\source\repos\threadpro\threadpro\obj\Debug\net5.0\threadpro.AssemblyInfo.cs
+C:\Users\aji\source\repos\threadpro\threadpro\obj\Debug\net5.0\threadpro.csproj.CoreCompileInputs.cache
+C:\Users\aji\source\repos\threadpro\threadpro\obj\Debug\net5.0\threadpro.dll
+C:\Users\aji\source\repos\threadpro\threadpro\obj\Debug\net5.0\ref\threadpro.dll
+C:\Users\aji\source\repos\threadpro\threadpro\obj\Debug\net5.0\threadpro.pdb
+C:\Users\aji\source\repos\threadpro\threadpro\obj\Debug\net5.0\threadpro.genruntimeconfig.cache

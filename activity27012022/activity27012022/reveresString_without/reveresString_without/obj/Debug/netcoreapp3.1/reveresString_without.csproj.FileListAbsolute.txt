@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\reveresString_without\reveresString_without\bin\Debug\netcoreapp3.1\reveresString_without.exe
+C:\Users\Ajith\source\repos\reveresString_without\reveresString_without\bin\Debug\netcoreapp3.1\reveresString_without.deps.json
+C:\Users\Ajith\source\repos\reveresString_without\reveresString_without\bin\Debug\netcoreapp3.1\reveresString_without.runtimeconfig.json
+C:\Users\Ajith\source\repos\reveresString_without\reveresString_without\bin\Debug\netcoreapp3.1\reveresString_without.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\reveresString_without\reveresString_without\bin\Debug\netcoreapp3.1\reveresString_without.dll
+C:\Users\Ajith\source\repos\reveresString_without\reveresString_without\bin\Debug\netcoreapp3.1\reveresString_without.pdb
+C:\Users\Ajith\source\repos\reveresString_without\reveresString_without\obj\Debug\netcoreapp3.1\reveresString_without.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\reveresString_without\reveresString_without\obj\Debug\netcoreapp3.1\reveresString_without.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\reveresString_without\reveresString_without\obj\Debug\netcoreapp3.1\reveresString_without.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\reveresString_without\reveresString_without\obj\Debug\netcoreapp3.1\reveresString_without.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\reveresString_without\reveresString_without\obj\Debug\netcoreapp3.1\reveresString_without.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\reveresString_without\reveresString_without\obj\Debug\netcoreapp3.1\reveresString_without.dll
+C:\Users\Ajith\source\repos\reveresString_without\reveresString_without\obj\Debug\netcoreapp3.1\reveresString_without.pdb
+C:\Users\Ajith\source\repos\reveresString_without\reveresString_without\obj\Debug\netcoreapp3.1\reveresString_without.genruntimeconfig.cache
